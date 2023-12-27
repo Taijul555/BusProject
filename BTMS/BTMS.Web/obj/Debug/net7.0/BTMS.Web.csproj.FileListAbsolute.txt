@@ -1,0 +1,50 @@
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\appsettings.Development.json
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\appsettings.json
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.exe
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.deps.json
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.runtimeconfig.json
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.dll
+D:\R54\Projects\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.pdb
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.AssemblyInfoInputs.cache
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.AssemblyInfo.cs
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.csproj.CoreCompileInputs.cache
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.Web.props
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.Web.props
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.Web.props
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\scopedcss\bundle\BTMS.Web.styles.css
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.dll
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\refint\BTMS.Web.dll
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.pdb
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.genruntimeconfig.cache
+D:\R54\Projects\BTMS\BTMS.Web\obj\Debug\net7.0\ref\BTMS.Web.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\appsettings.Development.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\appsettings.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.exe
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.deps.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.runtimeconfig.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\bin\Debug\net7.0\BTMS.Web.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.AssemblyInfoInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.AssemblyInfo.cs
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.csproj.CoreCompileInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.Web.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.Web.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.Web.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\scopedcss\bundle\BTMS.Web.styles.css
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\refint\BTMS.Web.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\BTMS.Web.genruntimeconfig.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.Web\obj\Debug\net7.0\ref\BTMS.Web.dll
